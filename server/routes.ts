@@ -11,6 +11,7 @@ import { comparePasswords, hashPassword } from "./auth";
 import { WebSocketServer, WebSocket } from 'ws';
 import { parse as parseUrl } from 'url';
 import { IncomingMessage } from 'http';
+import { io } from "socket.io-client";
 
 const classroomSockets = new Map<string, Set<WebSocket>>();
 
