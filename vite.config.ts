@@ -8,9 +8,7 @@ import { fileURLToPath } from "url";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-export default defineConfig( {optimizeDeps: {
-    include: ["socket.io-client"],
-  },
+export default defineConfig( {
   plugins: [
     react(),
     runtimeErrorOverlay(),
@@ -34,5 +32,8 @@ export default defineConfig( {optimizeDeps: {
   build: {
     outDir: path.resolve(__dirname, "dist/public"),
     emptyOutDir: true,
+       rollupOptions: {
+      external: ['socket.io-client']
+    },
   },
 });
