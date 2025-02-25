@@ -58,7 +58,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
   return () => {
     newSocket.close();
   };
-  }, [classId, toast]);
+  
 
   const updateMoveHistory = (currentGame: Chess) => {
   const history = currentGame.history();
