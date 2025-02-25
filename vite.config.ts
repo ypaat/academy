@@ -8,7 +8,9 @@ import { fileURLToPath } from "url";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-export default defineConfig({
+export default defineConfig( {optimizeDeps: {
+    include: ["socket.io-client"],
+  },
   plugins: [
     react(),
     runtimeErrorOverlay(),
