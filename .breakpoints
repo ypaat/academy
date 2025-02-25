@@ -1,0 +1,18 @@
+{
+  "files": {
+    "client/src/components/BoardEditor.tsx": [
+      {
+        "id": "e703af3b-9479-4e04-917a-d3939033ebd4",
+        "line": 9,
+        "version": 34,
+        "index": 431
+      },
+      {
+        "id": "0a20b7df-7c40-41dc-a5a8-1b71f17b320d",
+        "line": 9,
+        "version": 34,
+        "index": 431
+      }
+    ]
+  }
+}

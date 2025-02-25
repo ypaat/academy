@@ -1,0 +1,36 @@
+ClassroomBoard.tsx:72 WebSocket closed
+ClassroomBoard.tsx:46 WebSocket connection to 'wss://abc70003-4ede-4209-84b3-550691c6168f-00-1rcdgrmwu4xon.riker.replit.dev/ws/classroom/67bc6f350547d80c704bed50' failed: 
+connectWebSocket @ ClassroomBoard.tsx:46Understand this errorAI
+ClassroomBoard.tsx:88 WebSocket error: Event
+socket.onerror @ ClassroomBoard.tsx:88Understand this errorAI
+ClassroomBoard.tsx:72 WebSocket closed
+ClassroomBoard.tsx:46 WebSocket connection to 'wss://abc70003-4ede-4209-84b3-550691c6168f-00-1rcdgrmwu4xon.riker.replit.dev/ws/classroom/67bc6f350547d80c704bed50' failed: 
+connectWebSocket @ ClassroomBoard.tsx:46Understand this errorAI
+ClassroomBoard.tsx:88 WebSocket error: Event
+socket.onerror @ ClassroomBoard.tsx:88Understand this errorAI
+ClassroomBoard.tsx:72 WebSocket closed
+ClassroomBoard.tsx:46 WebSocket connection to 'wss://abc70003-4ede-4209-84b3-550691c6168f-00-1rcdgrmwu4xon.riker.replit.dev/ws/classroom/67bc6f350547d80c704bed50' failed: 
+connectWebSocket @ ClassroomBoard.tsx:46Understand this errorAI
+ClassroomBoard.tsx:88 WebSocket error: Event
+socket.onerror @ ClassroomBoard.tsx:88Understand this errorAI
+ClassroomBoard.tsx:72 WebSocket closed
+ClassroomBoard.tsx:46 WebSocket connection to 'wss://abc70003-4ede-4209-84b3-550691c6168f-00-1rcdgrmwu4xon.riker.replit.dev/ws/classroom/67bc6f350547d80c704bed50' failed: 
+connectWebSocket @ ClassroomBoard.tsx:46Understand this errorAI
+ClassroomBoard.tsx:88 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+socket.onerror @ ClassroomBoard.tsx:88Understand this errorAI
+ClassroomBoard.tsx:72 WebSocket closed
+ClassroomBoard.tsx:46 WebSocket connection to 'wss://abc70003-4ede-4209-84b3-550691c6168f-00-1rcdgrmwu4xon.riker.replit.dev/ws/classroom/67bc6f350547d80c704bed50' failed: 
+connectWebSocket @ ClassroomBoard.tsx:46Understand this errorAI
+ClassroomBoard.tsx:88 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+socket.onerror @ ClassroomBoard.tsx:88Understand this errorAI
+ClassroomBoard.tsx:72 WebSocket closed
+ClassroomBoard.tsx:46 WebSocket connection to 'wss://abc70003-4ede-4209-84b3-550691c6168f-00-1rcdgrmwu4xon.riker.replit.dev/ws/classroom/67bc6f350547d80c704bed50' failed: 
+connectWebSocket @ ClassroomBoard.tsx:46Understand this errorAI
+ClassroomBoard.tsx:88 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+socket.onerror @ ClassroomBoard.tsx:88Understand this errorAI
+ClassroomBoard.tsx:72 WebSocket closed
+ClassroomBoard.tsx:46 WebSocket connection to 'wss://abc70003-4ede-4209-84b3-550691c6168f-00-1rcdgrmwu4xon.riker.replit.dev/ws/classroom/67bc6f350547d80c704bed50' failed: 
+connectWebSocket @ ClassroomBoard.tsx:46Understand this errorAI
+ClassroomBoard.tsx:88 WebSocket error: Event {isTrusted: true, type: 'error', target: WebSocket, currentTarget: WebSocket, eventPhase: 2, …}
+socket.onerror @ ClassroomBoard.tsx:88Understand this errorAI
+ClassroomBoard.tsx:72 WebSocket closed
